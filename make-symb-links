@@ -1,0 +1,8 @@
+#!/bin/bash
+for file in $PWD/.*
+do
+    if [ ! -d $file ]
+    then
+        ln -s $file "$HOME/$(basename $file)"
+    fi
+done
