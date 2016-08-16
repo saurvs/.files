@@ -25,3 +25,4 @@
 	mr = merge
 	pl = pull
 	fe = fetch
+	cl = clone
