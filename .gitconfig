@@ -1,0 +1,27 @@
+[user]
+	name = Saurav Sachidanand
+	email = sauravsachidanand@gmail.com
+[push]
+	default = simple
+[core]
+	editor = vim
+[github]
+	user = saurvs
+[alias]
+	st = status
+	co = commit
+	pu = push
+	br = branch
+	ch = checkout
+	lg = log
+	rb = rebase
+	ad = add
+	re = remote
+	in = init
+	df = diff
+	rs = reset
+	sh = stash
+	tg = tag
+	mr = merge
+	pl = pull
+	fe = fetch
