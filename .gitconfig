@@ -26,3 +26,5 @@
 	pl = pull
 	fe = fetch
 	cl = clone
+[credential]
+	helper = cache --timeout=3600
