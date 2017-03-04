@@ -28,3 +28,8 @@
 	cl = clone
 [credential]
 	helper = cache --timeout=3600
+[sendemail]
+    smtpserver = smtp.gmail.com
+    smtpserverport = 587
+    smtpencryption = tls
+    smtpuser = sauravsachidanand@gmail.com
